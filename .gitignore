@@ -1,0 +1,8 @@
+/.vscode/
+/inc/
+/lib/
+/vendor/
+
+*.bat
+*.exe
+*.log
