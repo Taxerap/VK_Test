@@ -9,4 +9,4 @@ A vulkan testing stuff I made long time ago... Archived trash. Do not use.
 
 ---
 
-Published into public domain.
+Published under [WTFPLv2](https://wtfpl2.com), no rights reserved.
